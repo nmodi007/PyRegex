@@ -32,11 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatchingMultipleWithPipe.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MatchingMultipleWithPipe.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MatchingMultipleWithPipe.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="429">
               <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionalMatching.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OptionalMatching.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -60,6 +70,7 @@
         <option value="$PROJECT_DIR$/SimpleMatchingDemo.py" />
         <option value="$PROJECT_DIR$/GroupingWithParentheses.py" />
         <option value="$PROJECT_DIR$/MatchingMultipleWithPipe.py" />
+        <option value="$PROJECT_DIR$/OptionalMatching.py" />
       </list>
     </option>
   </component>
@@ -118,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MatchingMultipleWithPipe">
+  <component name="RunManager" selected="Python.OptionalMatching">
     <configuration default="false" name="SimpleMatchingDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,6 +179,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Learning-RegX" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatchingMultipleWithPipe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OptionalMatching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learning-RegX" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OptionalMatching.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,16 +266,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.SimpleMatchingDemo" />
       <item index="1" class="java.lang.String" itemvalue="Python.GroupingWithParentheses" />
       <item index="2" class="java.lang.String" itemvalue="Python.MatchingMultipleWithPipe" />
+      <item index="3" class="java.lang.String" itemvalue="Python.OptionalMatching" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.MatchingMultipleWithPipe" />
-        <item index="1" class="java.lang.String" itemvalue="Python.GroupingWithParentheses" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SimpleMatchingDemo" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.OptionalMatching" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MatchingMultipleWithPipe" />
+        <item index="2" class="java.lang.String" itemvalue="Python.GroupingWithParentheses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SimpleMatchingDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -341,6 +372,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionalMatching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding />
         </state>
       </provider>
